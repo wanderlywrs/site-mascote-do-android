@@ -8,7 +8,7 @@ Este projeto foi desenvolvido como parte do curso de **HTML5 e CSS3** do lendár
 
 ## 🔗 Projeto Online
 
-🚀 Veja o projeto no ar: [https://seuusuario.github.io/projeto-mascote-android/](https://wanderlywrs.github.io/site-mascote-do-android/) 
+🚀 Veja o projeto no ar: [https://wanderlywrs.github.io/site-mascote-do-android/](https://wanderlywrs.github.io/site-mascote-do-android/) 
 
 ---
 
