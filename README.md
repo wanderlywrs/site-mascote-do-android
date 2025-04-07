@@ -49,18 +49,3 @@ Este projeto foi desenvolvido como parte do curso de **HTML5 e CSS3** do lendár
 🎨 Layout limpo, com cores que respeitam a identidade do Android  
 🌐 Link externo para o site oficial do Android
 
----
-
-## 🧪 Como rodar localmente
-
-```bash
-# Clone o projeto
-git clone https://github.com/site-mascote-do-android/projeto-mascote-android.git
-
-# Acesse a pasta
-cd projeto-mascote-android
-
-# Abra o arquivo index.html no navegador
-start index.html  # Windows
-open index.html   # macOS
-xdg-open index.html  # Linux
